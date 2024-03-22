@@ -1,0 +1,107 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "batata",
+      "descricao": "batata da terra",
+      "preco": [
+        {
+          "precoCompra": 0.7,
+          "precoVenda": 9,
+          "precoPromocao": 6
+        }
+      ],
+      "categoria": [
+        {
+          "categoria1": "hortifruti",
+          "categoria2": "Alimentos"
+        }
+      ],
+      "validade": "30/03/2024",
+      "dimesao": "6,5cm",
+      "avaliacao": [
+        {
+          "id": "1",
+          "descricao": "Madura"
+        },
+        {
+          "id": "2",
+          "descricao": "pequena"
+        },
+        {
+          "id": "3",
+          "descricao": "boa qualidade"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "biscoito",
+      "descricao": "biscoito oreo - sabor chocolate ",
+      "preco": [
+        {
+          "precoCompra": 2.4,
+          "precoVenda": 3.5,
+          "precoPromocao": 3
+        }
+      ],
+      "categoria": [
+        {
+          "categoria1": "Doces",
+          "categoria2": "Alimentos"
+        }
+      ],
+      "validade": "20/02/2025",
+      "dimesao": "12,0cm",
+      "avaliacao": [
+        {
+          "id": "1",
+          "descricao": "pequeno"
+        },
+        {
+          "id": "2",
+          "descricao": "alto-valor"
+        },
+        {
+          "id": "3",
+          "descricao": "muito doce"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nome": "papel higienico",
+      "descricao": "papel higienico neve 12 rolos folha dupla",
+      "preco": [
+        {
+          "precoCompra": 13.5,
+          "precoVenda": 19.9,
+          "precoPromocao": 16.5
+        }
+      ],
+      "categoria": [
+        {
+          "categoria1": "Higiene",
+          "categoria2": "Limpeza",
+          "categoria3": "Acessorio"
+        }
+      ],
+      "validade": "10/07/2040",
+      "dimesao": "1,m",
+      "avaliacao": [
+        {
+          "id": "1",
+          "descricao": "quantidade pequena"
+        },
+        {
+          "id": "2",
+          "descricao": "alto-valor"
+        },
+        {
+          "id": "3",
+          "descricao": "macio"
+        }
+      ]
+    }
+  ]
+}
